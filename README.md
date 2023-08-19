@@ -54,4 +54,3 @@ Contributions are welcome! If you find any issues or want to enhance the package
 This package is licensed under the ISC License.
 ```
 
-You can copy and paste this into a new README.md file for your project, and then customize the content to match your specific project details.
